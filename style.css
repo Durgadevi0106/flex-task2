@@ -1,0 +1,25 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+.header{
+    margin: 10px;
+    padding: 10px;
+    background-color:lightyellow;
+    box-shadow: 0px 10px 10px lightgreen;
+}
+nav{
+    font-size: 1.8rem;
+    display: flex;
+   justify-content: space-between;
+}
+a{    
+    text-decoration: none;
+}
+div{
+    display:flex;
+    gap: 3rem;
+}
+
